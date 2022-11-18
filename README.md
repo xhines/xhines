@@ -1,13 +1,13 @@
-### Hi, I'm Robin Chang 👋
-<p> <img align= "right" alt="gif" src="https://github.com/xhines/MyOctocat/blob/main/My_Octocat.png" width="200" height="200" /></p>
-- 🌱 I’m currently learning Java, JavaScript and PostgreSQL
-- 🤲🏻 I’m looking to collaborate on back-end development
-- ⚡ Fun fact: I love games and in the near future to develop them
+### Hi, I'm Robin Chang 👋 
+
+<img align="right" width="150" height="150" src="https://github.com/xhines/MyOctocat/blob/main/My_Octocat.png"/>
+<p>- 🌱 I’m currently learning Java, JavaScript and PostgreSQL</p>
+<p>- 🤲🏻 I’m looking to collaborate on back-end development</p>
+<p>- ⚡ Fun fact: I love games and in the near future to develop them</p>
 
 ##
 
 <div align="center">
-  
   <a href="https://github.com/xhines">
   <img height="163em" src="https://github-readme-stats.vercel.app/api?username=xhines&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhines&layout=compact&langs_count=7&theme=react"/>
