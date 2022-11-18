@@ -28,10 +28,10 @@
 
 <div>
   <a href="https://github.com/xhines">
-  <img height="163em" src="https://github-readme-stats.vercel.app/api?username=xhines&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhines&layout=compact&langs_count=7&theme=react"/>
+  <img height="163em" src="https://github-readme-stats.vercel.app/api/?username=xhines&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="xhines"/>
+  <img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhines&layout=compact&langs_count=7&theme=react" alt="xhines"/>
 </div>
- 
+  
 ![Snake animation](https://github.com/xhines/xhines/blob/output/github-contribution-grid-snake.svg) 
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xhines&label=Profile%20views&color=0e75b6&style=flat" alt="xhines" /> </p>
