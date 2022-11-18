@@ -1,5 +1,5 @@
 ### Hi, I'm Robin Chang 👋
-
+<p> <img align= "right" alt="gif" src="https://github.com/xhines/MyOctocat/blob/main/My_Octocat.png" width="200" height="200" /></p>
 - 🌱 I’m currently learning Java, JavaScript and PostgreSQL
 - 🤲🏻 I’m looking to collaborate on back-end development
 - ⚡ Fun fact: I love games and in the near future to develop them
