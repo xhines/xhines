@@ -7,6 +7,7 @@
 ##
 
 <div align="center">
+  
   <a href="https://github.com/xhines">
   <img height="163em" src="https://github-readme-stats.vercel.app/api?username=xhines&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhines&layout=compact&langs_count=7&theme=react"/>
@@ -27,6 +28,8 @@ Connect with me:
 <div>
   <a href = "mailto:charobin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/robin-chang01/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/xhines/xhines/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+![Snake animation](https://github.com/xhines/xhines/blob/output/github-contribution-grid-snake.svg) 
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xhines&label=Profile%20views&color=0e75b6&style=flat" alt="xhines" /> </p>
