@@ -1,20 +1,12 @@
 <h1 align="center"> Hi, I'm Robin Chang 👋 </h1>
 
 <div>
-<img align="right" width="150" height="150" src="https://github.com/xhines/MyOctocat/blob/main/My_Octocat.png"/>
+<img align="right" width="300" height="300" src="https://github.com/xhines/MyOctocat/blob/main/My_Octocat.png"/>
 <p>- 🌱 I’m currently learning Java, JavaScript and PostgreSQL</p>
 <p>- 🤲🏻 I’m looking to collaborate on back-end development</p>
 <p>- ⚡ Fun fact: I love games and in the near future to develop them</p>
 </div>
   
-##
-
-<div align="center">
-  <a href="https://github.com/xhines">
-  <img align="left" height="200em" src="https://github-readme-stats.vercel.app/api?username=xhines&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img align="left" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhines&layout=compact&langs_count=7&theme=react"/>
-</div>
-
 
 <div align="left" style="display: inline_block"><br>
   <p> Languages and Tools: </p>
@@ -25,15 +17,23 @@
   <img align="center" alt="Robin-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Robin-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">    
 </div>
-  
-##
-  
-Connect with me:
-<div align="left">
+
+<br>
+ 
+<div>
+  <p> Connect with me: </p>
   <a href = "mailto:charobin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/robin-chang01/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+  
+##
 
+<div>
+  <a href="https://github.com/xhines">
+  <img align="left" height="163em" src="https://github-readme-stats.vercel.app/api?username=xhines&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img align="left" height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhines&layout=compact&langs_count=7&theme=react"/>
+</div>
+ 
 ![Snake animation](https://github.com/xhines/xhines/blob/output/github-contribution-grid-snake.svg) 
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xhines&label=Profile%20views&color=0e75b6&style=flat" alt="xhines" /> </p>
