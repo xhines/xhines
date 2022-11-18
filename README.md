@@ -20,8 +20,8 @@
  
 <div>
   <h3> Connect with me: </h3>
-  <a href = "mailto:charobin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=gmail&logoColor=white" height="30" width="100" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/robin-chang01/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" height="30" width="100" target="_blank"></a> 
+  <a href = "mailto:charobin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=gmail&logoColor=white" height="30" width="110" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/robin-chang01/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" height="30" width="110" target="_blank"></a> 
 </div>
   
 ##
