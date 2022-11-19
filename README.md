@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Robin Chang 👋 </h1>
 
 <div>
-<img align="right" width="300" height="300" src="https://github.com/xhines/MyOctocat/blob/main/My_Octocat.png"/>
+<img align="right" width="350" height="350" src="https://github.com/xhines/MyOctocat/blob/main/My_Octocat.png"/>
 <p>- 🌱 I’m currently learning Java, JavaScript and PostgreSQL</p>
 <p>- 🤲🏻 I’m looking to collaborate on back-end development</p>
 <p>- ⚡ Fun fact: I love games and in the near future to develop them</p>
