@@ -3,8 +3,8 @@ name: Snake Game
 
 on:
   schedule:
-      # execute every 5 hours.
-    - cron: "0 */5 * * *"
+      # execute every 12 hours.
+    - cron: "0 */12 * * *"
 
 # Permite executar na na lista de Actions (utilizado para testes de build).
   workflow_dispatch:
