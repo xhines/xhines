@@ -25,7 +25,7 @@
 <br>
 
 <div align="left">
-  <h2 align="center"> Languages-Frameworks-Tools </h2>
+  <h2 align="center"> ⚒️ Languages-Frameworks-Tools ⚒️ </h2>
     <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,cs,js,dotnet,mysql" /><br>
