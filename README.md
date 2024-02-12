@@ -36,12 +36,12 @@
 <br>
  
 <div align="center">
-  <h2> My Contributions </h2>
+  <h2> 🌳 My Contributions 🌳 </h2>
   <img alt="snake eating my contribution" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   <br><br>
 </div>
 
-<h2 align="center"> Stats </h2>
+<h2 align="center"> 💻 Stats 💻 </h2>
 <br>
 <div align="center">
   <img height="163em" src="https://github-readme-stats.vercel.app/api/?username=xhines&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="xhines"/>
@@ -52,6 +52,6 @@
 
 <h2 align="center"> 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=6000&lines=Thanks+for+Visiting+🖖;+Send+me+a+message+on+LinkedIn!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=5000&lines=Thanks+for+Visiting+🖖;+Send+me+a+message+on+LinkedIn!;" />
   </a>
 </h1>
