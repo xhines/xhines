@@ -37,6 +37,11 @@
   <img height="163em" src="https://github-readme-stats.vercel.app/api/?username=xhines&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="xhines"/>
   <img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhines&layout=compact&langs_count=7&theme=react" alt="xhines"/>
 </div>
-  
-![Snake animation](https://github.com/xhines/xhines/blob/output/github-contribution-grid-snake.svg) 
+
+<div align="center">
+  <h2> My Contributions </h2>
+  <br>
+  <img alt="snake eating my contribution" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <br><br><br>
+</div>
 
