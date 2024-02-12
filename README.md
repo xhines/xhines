@@ -24,7 +24,7 @@
 </div>
 <br>
 
-<div align="center">
+<div align="left">
   <h2 align="center"> Languages-Frameworks-Tools </h2>
     <br>
   <a href="https://skillicons.dev">
@@ -45,7 +45,7 @@
 <h2 align="center"> Stats </h2>
 <br>
 <div align="center">
-  <img height="390" src="https://github-readme-stats.vercel.app/api/?username=xhines&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="xhines"/>
+  <img height="163em" src="https://github-readme-stats.vercel.app/api/?username=xhines&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="xhines"/>
   <img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhines&layout=compact&langs_count=7&theme=react" alt="xhines"/>
 </div>
 
