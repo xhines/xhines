@@ -15,9 +15,7 @@
 <p>- ⚡ Fun fact: I love games and in the near future to develop them</p>
 </div>
   
-<h2 align="center"> 
-Languages-Frameworks-Tools
-</h2>
+<h2 align="center"> Languages-Frameworks-Tools </h2>
 <br>
 <div align="center">
   <a href="https://skillicons.dev">
