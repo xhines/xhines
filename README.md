@@ -19,8 +19,7 @@
 <br>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github, csharp, java, js" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap, mysql, sqlserver, html, css, vscode, figma, intellij" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </div>
  
