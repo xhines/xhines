@@ -37,5 +37,4 @@
 </div>
   
 ![Snake animation](https://github.com/xhines/xhines/blob/output/github-contribution-grid-snake.svg) 
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xhines&label=Profile%20views&color=0e75b6&style=flat" alt="xhines" /> </p>
+
