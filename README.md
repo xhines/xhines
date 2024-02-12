@@ -15,7 +15,6 @@
   <p>- ⚡ Fun fact: I love games and in the near future to develop them</p>
 </div>
 <br>
-<br>
 
 <div align="center">
   <h2 align="center"> Languages-Frameworks-Tools </h2>
