@@ -14,6 +14,14 @@
   <p>- 🤲🏻 I’m looking to collaborate on back-end development</p>
   <p>- ⚡ Fun fact: I love games and in the near future to develop them</p>
 </div>
+
+<div align="center">
+  <a href = "mailto:charobin@gmail.com"> 
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" >
+  </a>
+  <a href = "https://www.linkedin.com/in/robin-chang01/ target="_blank"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a> 
+</div>
 <br>
 
 <div align="center">
@@ -25,24 +33,20 @@
   </a>
 </div>
  
-<div>
-  <h3> Connect with me: </h3>
-  <a href = "mailto:charobin@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=gmail&logoColor=white" target="_blank" height="30" width="90" ></a>
-  <a href = "https://www.linkedin.com/in/robin-chang01/"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" target="_blank" height="30" width="90" ></a> 
-</div>
-  
-##
-
-<div>
-  <a href="https://github.com/xhines">
-  <img height="163em" src="https://github-readme-stats.vercel.app/api/?username=xhines&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="xhines"/>
-  <img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhines&layout=compact&langs_count=7&theme=react" alt="xhines"/>
-</div>
-
 <div align="center">
   <h2> My Contributions </h2>
   <br>
   <img alt="snake eating my contribution" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   <br><br><br>
 </div>
+
+<br>
+
+<h2 align="center"> Stats </h2>
+<br>
+<div align="center">
+  <img height="390" src="https://github-readme-stats.vercel.app/api/?username=xhines&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="xhines"/>
+  <img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhines&layout=compact&langs_count=7&theme=react" alt="xhines"/>
+</div>
+
 
