@@ -19,8 +19,8 @@
 <br>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java, cs, js, dotnet, mysql, " /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap, css, html, github, hibernate, spring, idea, visualstudio, vscode, postman " />
+    <img src="https://skillicons.dev/icons?i=java,cs,js,dotnet,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,html,github,hibernate,spring,idea,visualstudio,vscode,postman" />
   </a>
 </div>
  
