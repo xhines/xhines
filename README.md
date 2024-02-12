@@ -1,4 +1,7 @@
-<h1 align="center"> Hi, I'm Robin Chang 👋 </h1>
+<h1 align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com/?
+    font=Righteous&size=35&center=true&vCenter=true&width=500&hwight=70&duration=4000&lines=Hi+There!+👋;I'm+Robin+Chang!;" />
+</h1>
 
 <div>
 <img align="right" width="350" height="350" src="https://github.com/xhines/MyOctocat/blob/main/My_Octocat.png"/>
@@ -10,13 +13,11 @@
 </div>
   
 <div align="left" style="display: inline_block"><br>
-  <h3> Languages and Tools: </h3>
-  <img align="center" alt="Robin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Robin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Robin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Robin-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Robin-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Robin-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">    
+  <h2 align="center"> Languages-Frameworks-Tools: </h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github, c#, java, javascript"/><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap, mysql, sqlserver, html, css, vscode, figma, intellij"/>
+  </a>
 </div>
  
 <div>
