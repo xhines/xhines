@@ -15,8 +15,8 @@
 <p>- ⚡ Fun fact: I love games and in the near future to develop them</p>
 </div>
   
-<h2 align="center"> ![image](https://github.com/xhines/xhines/assets/78927853/91f35eb6-cc07-4dd3-9ed8-ed86163f087c)
-Languages-Frameworks-Tools ![image](https://github.com/xhines/xhines/assets/78927853/8fe18e87-fdba-485a-a33b-871d75fce1f6)
+<h2 align="center"> 
+Languages-Frameworks-Tools
 </h2>
 <br>
 <div align="center">
