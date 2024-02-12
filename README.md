@@ -15,11 +15,12 @@
 <p>- ⚡ Fun fact: I love games and in the near future to develop them</p>
 </div>
   
-<div align="left" style="display: inline_block"><br>
-  <h2 align="center"> Languages-Frameworks-Tools: </h2>
+<h2 align="center"> Languages-Frameworks-Tools: </h2>
+<br>
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github, c#, java, javascript"/><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap, mysql, sqlserver, html, css, vscode, figma, intellij"/>
+    <img src="https://skillicons.dev/icons?i=github, csharp, java, javascript" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap, mysql, sqlserver, html, css, vscode, figma, intellij" />
   </a>
 </div>
  
