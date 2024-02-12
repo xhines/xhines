@@ -48,8 +48,10 @@
   <img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhines&layout=compact&langs_count=7&theme=react" alt="xhines"/>
 </div>
 
+<br>
+
 <h2 align="center"> 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+Visiting+👋;+Shoot+me+a+message+on+LinkedIn!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+Visiting+👋;+Send+me+a+message+on+LinkedIn!;" />
   </a>
 </h1>
